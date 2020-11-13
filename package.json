@@ -39,7 +39,7 @@
     "@angular/core": "^8.2.14",
     "@angular/forms": "^8.2.14",
     "@angular/platform-browser": "^8.2.14",
-    "rxjs": "^6.0.0",
+    "rxjs": "^6.5.2",
     "typescript": ">=3.4.0 <3.6.0",
     "zone.js": "^0.9.1"
   },

@@ -1,6 +1,6 @@
 {
-    "name": "ng-validator",
-    "version": "2.0.0",
+    "name": "@grupodeca-glm/ng-validator",
+    "version": "1.0.0",
     "description": "Angular validators is an easy way to validate formControls, arrayControls and files controls, this package supports to reactive forms",
     "module": "index.js",
     "scripts": {
@@ -38,7 +38,7 @@
       "@angular/core": "^8.2.14",
       "@angular/forms": "^8.2.14",
       "@angular/platform-browser": "^8.2.14",
-      "rxjs": "^6.0.0",
-      "zone.js": "^0.8.26"
+      "rxjs": "^6.5.2",
+      "zone.js": "^0.9.1"
     }
   }
