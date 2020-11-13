@@ -33,13 +33,13 @@
   },
   "homepage": "https://github.com/Lugriz/ng-validator",
   "devDependencies": {
-    "@angular/core": "^6.0.3",
-    "@angular/compiler-cli": "^6.0.3",
-    "@angular/compiler": "^6.0.3",
     "@angular/common": "^6.0.3",
+    "@angular/compiler": "^6.0.3",
+    "@angular/compiler-cli": "^8.2.14",
+    "@angular/core": "^6.0.3",
     "@angular/forms": "^6.0.3",
     "rxjs": "^6.0.0",
-    "typescript": "~2.7.2",
+    "typescript": ">=3.4.0 <3.6.0",
     "zone.js": "^0.8.26"
   }
 }
